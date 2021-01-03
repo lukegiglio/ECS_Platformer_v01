@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1A6ED672-96A4-4483-BBCE-6DF82CB54054</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1A6ED672-96A4-4483-BBCE-6DF82CB54054.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630958974.445351</real>
+			<key>timeStoppedRecording</key>
+			<real>630959024.89057302</real>
+			<key>title</key>
+			<string>Run DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>1A6ED672-96A4-4483-BBCE-6DF82CB54054</string>
+		</dict>
+		<key>C4FCD10D-909F-4F84-B842-3D556DADFE2E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C4FCD10D-909F-4F84-B842-3D556DADFE2E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630958960.71501303</real>
+			<key>timeStoppedRecording</key>
+			<real>630958961.62384701</real>
+			<key>title</key>
+			<string>Run DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>C4FCD10D-909F-4F84-B842-3D556DADFE2E</string>
+		</dict>
+		<key>CFC3EB6D-3F7E-4F0D-8727-BAE70527B219</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CFC3EB6D-3F7E-4F0D-8727-BAE70527B219.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630947931.92606103</real>
+			<key>timeStoppedRecording</key>
+			<real>630947989.52723002</real>
+			<key>title</key>
+			<string>Run DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>CFC3EB6D-3F7E-4F0D-8727-BAE70527B219</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

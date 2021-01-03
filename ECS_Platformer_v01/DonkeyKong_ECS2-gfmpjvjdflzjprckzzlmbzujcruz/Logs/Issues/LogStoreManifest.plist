@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>529B3F80-69D6-4C41-AA6E-6B50192B825C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>529B3F80-69D6-4C41-AA6E-6B50192B825C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>DonkeyKong_ECS2-gfmpjvjdflzjprckzzlmbzujcruz</string>
+			<key>timeStartedRecording</key>
+			<real>630958971.183617</real>
+			<key>timeStoppedRecording</key>
+			<real>630958974.418522</real>
+			<key>title</key>
+			<string>Build target DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>529B3F80-69D6-4C41-AA6E-6B50192B825C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

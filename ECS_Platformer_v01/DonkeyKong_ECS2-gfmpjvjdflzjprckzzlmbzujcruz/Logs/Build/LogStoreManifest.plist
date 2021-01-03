@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2B47B25A-E60B-4C26-92A3-2B64BC461F5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2B47B25A-E60B-4C26-92A3-2B64BC461F5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630958955.34814095</real>
+			<key>timeStoppedRecording</key>
+			<real>630958960.85724604</real>
+			<key>title</key>
+			<string>Clean DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>2B47B25A-E60B-4C26-92A3-2B64BC461F5D</string>
+		</dict>
+		<key>771D69DB-FFA6-4963-A6F9-6F5FFD7B673F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>771D69DB-FFA6-4963-A6F9-6F5FFD7B673F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630958956.06864095</real>
+			<key>timeStoppedRecording</key>
+			<real>630958960.70580304</real>
+			<key>title</key>
+			<string>Build DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>771D69DB-FFA6-4963-A6F9-6F5FFD7B673F</string>
+		</dict>
+		<key>86F606EE-AB11-45F5-A21E-5E9E2B906FB7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>86F606EE-AB11-45F5-A21E-5E9E2B906FB7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630958971.10299599</real>
+			<key>timeStoppedRecording</key>
+			<real>630958974.44000304</real>
+			<key>title</key>
+			<string>Build DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>86F606EE-AB11-45F5-A21E-5E9E2B906FB7</string>
+		</dict>
+		<key>AAEC0A03-3773-472E-BD95-ABF2E88922EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AAEC0A03-3773-472E-BD95-ABF2E88922EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630958969.547032</real>
+			<key>timeStoppedRecording</key>
+			<real>630958969.59173596</real>
+			<key>title</key>
+			<string>Clean DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>AAEC0A03-3773-472E-BD95-ABF2E88922EF</string>
+		</dict>
+		<key>C7829556-1416-475A-A087-EB2DEF796597</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C7829556-1416-475A-A087-EB2DEF796597.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>DonkeyKong_ECS2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>DonkeyKong_ECS2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build DonkeyKong_ECS2</string>
+			<key>timeStartedRecording</key>
+			<real>630947928.47125006</real>
+			<key>timeStoppedRecording</key>
+			<real>630947931.91917002</real>
+			<key>title</key>
+			<string>Build DonkeyKong_ECS2</string>
+			<key>uniqueIdentifier</key>
+			<string>C7829556-1416-475A-A087-EB2DEF796597</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
